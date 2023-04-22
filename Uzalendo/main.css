@@ -1,0 +1,35 @@
+
+
+#methodology {
+    background: radial-gradient(50% 50% at 50% 50%, #AA1111 0%, #0D652D 53.65%, #0E0000 97.4%);
+    border-radius: 19px;
+
+}
+
+#ourteam {
+    background: linear-gradient(180deg, rgba(21, 1, 1, 0.65) 15.62%, rgba(255, 255, 255, 0.65) 32.29%, rgba(242, 24, 24, 0.65) 48.44%, #FFFFFF 66.15%, rgba(13, 101, 45, 0.65) 85.94%);
+}
+
+.readmore {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+ 
+}
+/* .success{
+    background: rgba(255, 255, 255, 0.64);
+} */
+#stories{
+    background: linear-gradient(180deg, rgba(245, 14, 14, 0.85) 0%, rgba(13, 101, 45, 0.8) 100%);
+}
+#partner{
+    background: conic-gradient(from 180deg at 50% 50%, #FFFFFF -31.88deg, #031D0C 30deg, #FFFFFF 90deg, #F21010 150deg, #FFFFFF 213.75deg, #0B8A39 271.87deg, #FFFFFF 328.12deg, #031D0C 390deg);
+}
+
+
+  
+
+
+
+
